@@ -4,9 +4,9 @@ import {MdAdd} from 'react-icons/md';
 import { useTodoDispatch, useTodoNextId } from "../TodoContext";
 
 const CircleButton = styled.button`
-  background: #38d9a9;
+  background: #bd71ff;
   &:hover {
-    background: #63e6be;
+    background: #d195ff;
   }
   &:active {
     background: #20c997;
